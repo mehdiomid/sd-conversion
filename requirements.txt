@@ -1,0 +1,8 @@
+git+https://github.com/huggingface/huggingface_hub@main
+git+https://github.com/huggingface/diffusers.git
+torch
+#transformers
+git+https://github.com/huggingface/transformers
+pytorch_lightning
+OmegaConf
+ftfy
